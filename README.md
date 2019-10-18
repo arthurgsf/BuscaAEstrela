@@ -1,2 +1,2 @@
 # BuscaAEstrela
-Busca A* implementada no jogo reversi
+Busca A* implementada para nota na disciplina de Inteligência Artificial
